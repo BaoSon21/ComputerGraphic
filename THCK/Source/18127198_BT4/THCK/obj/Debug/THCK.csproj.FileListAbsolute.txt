@@ -1,0 +1,17 @@
+C:\Users\BaoSon\source\repos\THCK\THCK\bin\Debug\THCK.exe.config
+C:\Users\BaoSon\source\repos\THCK\THCK\bin\Debug\THCK.exe
+C:\Users\BaoSon\source\repos\THCK\THCK\bin\Debug\THCK.pdb
+C:\Users\BaoSon\source\repos\THCK\THCK\bin\Debug\SharpGL.dll
+C:\Users\BaoSon\source\repos\THCK\THCK\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\BaoSon\source\repos\THCK\THCK\bin\Debug\SharpGL.WinForms.dll
+C:\Users\BaoSon\source\repos\THCK\THCK\bin\Debug\SharpGL.xml
+C:\Users\BaoSon\source\repos\THCK\THCK\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\BaoSon\source\repos\THCK\THCK\bin\Debug\SharpGL.WinForms.xml
+C:\Users\BaoSon\source\repos\THCK\THCK\obj\Debug\THCK.csprojAssemblyReference.cache
+C:\Users\BaoSon\source\repos\THCK\THCK\obj\Debug\THCK.Form1.resources
+C:\Users\BaoSon\source\repos\THCK\THCK\obj\Debug\THCK.Properties.Resources.resources
+C:\Users\BaoSon\source\repos\THCK\THCK\obj\Debug\THCK.csproj.GenerateResource.cache
+C:\Users\BaoSon\source\repos\THCK\THCK\obj\Debug\THCK.csproj.CoreCompileInputs.cache
+C:\Users\BaoSon\source\repos\THCK\THCK\obj\Debug\THCK.csproj.CopyComplete
+C:\Users\BaoSon\source\repos\THCK\THCK\obj\Debug\THCK.exe
+C:\Users\BaoSon\source\repos\THCK\THCK\obj\Debug\THCK.pdb
